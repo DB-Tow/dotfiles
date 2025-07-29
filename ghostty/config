@@ -1,0 +1,4 @@
+window-decoration = none
+
+fullscreen = true
+macos-non-native-fullscreen = visible-menu 
